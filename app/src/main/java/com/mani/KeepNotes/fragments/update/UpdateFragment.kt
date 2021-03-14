@@ -1,11 +1,11 @@
-package com.mani.keepnotes.fragments.update
+package com.mani.KeepNotes.fragments.update
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.mani.keepnotes.R
+import com.mani.KeepNotes.R
 
 class updateFragment : Fragment() {
 

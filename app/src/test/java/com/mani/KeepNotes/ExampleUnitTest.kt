@@ -1,4 +1,4 @@
-package com.mani.keepnotes
+package com.mani.KeepNotes
 
 import org.junit.Test
 
